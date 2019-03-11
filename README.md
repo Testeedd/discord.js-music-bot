@@ -25,7 +25,7 @@ prefix=
 
 ## Contributing
 
-1. [Fork the repository](https://github.com/IamIshmaamKhan/discord-music-bot/fork)!
+1. [Fork the repository](https://github.com/IamIshmaamKhan/discord.js-music-bot/fork)!
 2. Clone your fork: `git clone https://github.com/your-username/discord-music-bot.git`
 3. Create your feature branch: `git checkout -b my-new-feature`
 4. Commit your changes: `git commit -am 'Add some feature'`
